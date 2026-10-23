@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Question & Answering System
 
 ## Overview
@@ -175,3 +176,7 @@ deactivate
 - Add optional conversation export with explicit user consent.
 - Add deployment-ready authentication, usage limits, and observability.
 - Add integration tests against a controlled staging endpoint.
+=======
+# Question_Answering_app-AI-Assisted-Program-
+This is a Question-Answering application done in our college during the ai assisted program skill development course
+>>>>>>> bad2aca6a06409bdd5cdb8b2f8f16564952d6819
